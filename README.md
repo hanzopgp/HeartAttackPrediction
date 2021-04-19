@@ -1,10 +1,14 @@
-# HeartAttackPrediction
+# RandomKaggleSolving
 
 ## Presentation
 
->Building a deep neural network to predict heart attacks thanks to medical informations.
+>Building deep learning models thanks to kaggle datasets.
 
-## Dataset 
+## Subjects
 
->Dataset isn't available in this repository but you can download here :
+1. Heart attack prediction
+
+## Datasets
+
+>Datasets aren't available in this repository but you can download here :
 >https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
