@@ -2,14 +2,14 @@
 
 ## Presentation
 
->Building deep learning models thanks to kaggle datasets.
+>Building deep learning models using kaggle datasets.
 
 ## Subjects
 
 ### Health :
 
-1. Heart attack prediction
-2. Stroke prediction
+1. MLP : Heart attack prediction
+2. MLP : Stroke prediction
 
 ### Other :
 
