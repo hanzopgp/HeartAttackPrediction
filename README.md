@@ -4,17 +4,13 @@
 
 >Building deep learning models using kaggle datasets.
 
-## Subjects
+## Subjects (Click on title for dataset link)
 
-### Health :
+### MLP :
 
-1. MLP : Heart attack prediction
-2. MLP : Stroke prediction
+1. [Heart attack prediction](https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)
+2. [Stroke prediction](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
 
-### Other :
+### CNN :
 
-## Datasets
-
->Datasets aren't available in this repository but you can download here :
->1. https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
->2. https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
+1. [Chest X-rays disease classification](https://www.kaggle.com/nih-chest-xrays/data)
