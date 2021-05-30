@@ -5,9 +5,10 @@
 >Building deep learning models using kaggle datasets.
 
 <pre><code>RandomKaggleSolving/
-├── notebooks/
-│   	├── mlp/        	 
-│       └── cnn/         
+├── notebooks/ (notebooks containing code)
+│   	├── mlp/ (multilayer perceptron models)
+│       └── cnn/ (convolutional neural networks)
+├── datasets/ (some datasets that I could push)
 └── README.md		
 </pre></code>
 
