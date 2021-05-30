@@ -4,6 +4,15 @@
 
 >Building deep learning models using kaggle datasets.
 
+<pre><code>RandomKaggleSolving/
+├── notebooks/
+│   	├── mlp/   
+│       │  
+│       │        	 
+│       └── cnn/         
+└── README.md		
+</pre></code>
+
 ## Subjects (Click on title for dataset link)
 
 ### MLP :
