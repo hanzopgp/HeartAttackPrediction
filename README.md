@@ -6,9 +6,7 @@
 
 <pre><code>RandomKaggleSolving/
 ├── notebooks/
-│   	├── mlp/   
-│       │  
-│       │        	 
+│   	├── mlp/        	 
 │       └── cnn/         
 └── README.md		
 </pre></code>
