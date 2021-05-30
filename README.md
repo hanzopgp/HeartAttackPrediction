@@ -2,6 +2,8 @@
 
 ## Presentation
 
+<p align="center"><img src="cover.png"></p>
+
 >Building deep learning models using kaggle datasets.
 
 ## Subjects (Click on title for dataset link)
