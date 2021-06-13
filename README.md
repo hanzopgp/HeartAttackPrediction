@@ -10,7 +10,7 @@
 ├── notebooks/         (notebooks containing code)
 │   	├── mlp/       (multilayer perceptron models)
 │       └── cnn-x-mlp/ (convolutional neural networks)
-├── datasets/            (some datasets that I could push)
+├── datasets/           (some datasets that I could push)
 └── README.md		
 </pre></code>
 
